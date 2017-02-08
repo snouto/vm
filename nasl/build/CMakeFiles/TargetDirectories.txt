@@ -1,0 +1,11 @@
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/doc/CMakeFiles/doc.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/doc/CMakeFiles/doc-full.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/base/CMakeFiles/indent.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/nasl/CMakeFiles/openvas-nasl.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/nasl/CMakeFiles/openvas-nasl-lint.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/base/CMakeFiles/openvas_base_shared.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/misc/CMakeFiles/openvas_misc_shared.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/nasl/CMakeFiles/openvas_nasl_shared.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/omp/CMakeFiles/openvas_omp_shared.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/base/CMakeFiles/print-indent-diff.dir
+/media/snouto/rest/projects/dalton/libs/openvas-libraries-8.0.7/nasl/build/base/CMakeFiles/test-hosts.dir
